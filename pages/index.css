@@ -11,10 +11,10 @@
 @import url(../blocks/grid-elements/grid-elements.css);
 @import url(../blocks/grid-element/grid-element.css);
 @import url(../blocks/grid-element/__photo/grid-element__photo.css);
+@import url(../blocks/grid-element/__info/grid-element__info.css);
 @import url(../blocks/grid-element/__name/grid-element__name.css);
 @import url(../blocks/grid-element/__heart-empty/grid-element__heart-empty.css);
 @import url(../blocks/grid-element/__heart-filled/grid-element__heart-filled.css);
-@import url(../blocks/grid-element/__info/grid-element__info.css);
 @import url(../blocks/profile-info/profile-info.css);
 @import url(../blocks/profile-info/__desc/profile-info__desc.css);
 @import url(../blocks/profile-info/__name/profile-info__name.css);
