@@ -1,0 +1,4 @@
+.grid-element__info {
+    display: flex;
+    justify-content: space-between;
+}
